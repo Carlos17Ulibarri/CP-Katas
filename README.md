@@ -1,1 +1,1 @@
-# CP-Katas
+# Katas - Curso Propedútico de Python para Launch X - Innovacción Virtual
